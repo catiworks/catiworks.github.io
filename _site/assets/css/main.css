@@ -3895,7 +3895,7 @@ cite {
 }
 
 .button_back {
-  color: #ffffff;
+  color: #09f;
   font-size: 1.1rem;
   text-decoration: none;
   font-style: italic;
@@ -4535,11 +4535,11 @@ cite {
 .about {
   position: relative;
   width: 100%;
-  height: 100vh;
-  min-height: 700px;
+  height: 122vh;
+  min-height: 122vh;
   background-image: url(../img/bg_about.jpg);
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 1% 50%;
   background-repeat: no-repeat;
 }
 
